@@ -1,5 +1,5 @@
-# Commercial YouTuber recommendation in influencer marketing using sentiment through GNN
-This repository is to supplement the paper "Commercial YouTuber recommendation in influencer marketing using sentiment through GNN".
+# Commercial YouTuber recommendation in influencer marketing using sentiment through graph neural network
+This repository is to supplement the paper "Commercial YouTuber recommendation in influencer marketing using sentiment through graph neural network".
 
 
 ## Abstract
