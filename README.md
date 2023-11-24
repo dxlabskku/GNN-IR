@@ -17,7 +17,7 @@ With the notable growth of the Internet, a number of platforms have emerged and 
 We constructed a sponsorship dataset capturing the relationship between commercial sponsors and YouTube creators sourced from _Ugwanggi_, a platform specifically designed for checking sponsorship advertisement lists on YouTube. Encompassing samples dating from 2016 to September 5th, 2023, the dataset contains details such as the sponsor's name, YouTube creator's name, upload date of videos, sponsor categories, and keywords associated with YouTube creators. In addition, our data collection extended to YouTube to gather more nuanced information about YouTube creators, which includes the number of subscribers, total video count, overall view counts, creators' profile images, and video IDs.
 
 
-## Model
+## Implementation detail
 TBD
 
 
