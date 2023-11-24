@@ -8,9 +8,9 @@ With the notable growth of the Internet, a number of platforms have emerged and 
 
 ## Overview of our framework
 TBD
-<img>
+<img alt="GNN-IR" src="https://github.com/dxlabskku/GNN-IR/assets/43632309/20f0519f-7020-4b2a-b49e-96c31fd4ea44" width="636.75" height="600">
 <br>
-<strong>Figure 1 : Proposed model</strong>
+<strong>Figure 1 : GNN-IR framework </strong>
 <br>
 
 
