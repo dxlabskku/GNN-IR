@@ -35,7 +35,7 @@ We constructed a sponsorship dataset capturing the relationship between commerci
 | NCS Rank (NCSR) | 1   | 5            | 1.98 (0.94)               | 2            |
 | PCS Rank (PCSR)     | 1   | 5            | 4.19 (0.92)               | 4            |
 
-*Note: Values are rounded for better readability.*
+
 
 
 
