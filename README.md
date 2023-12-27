@@ -18,6 +18,26 @@ With the notable growth of the Internet, a number of platforms have emerged and 
 We constructed a sponsorship dataset capturing the relationship between commercial sponsors and YouTube creators sourced from _Ugwanggi_, a platform specifically designed for checking sponsorship advertisement lists on YouTube. Encompassing samples dating from 2016 to September 5th, 2023, the dataset contains details such as the sponsor's name, YouTube creator's name, upload date of videos, sponsor categories, and keywords associated with YouTube creators. In addition, our data collection extended to YouTube to gather more nuanced information about YouTube creators, which includes the number of subscribers, total video count, overall view counts, creators' profile images, and video IDs. After pre-processing, our dataset consisted of 25,174 links between advertisers and influencers. Among these, we identified 1,886 unique advertisers and 3,812 unique YouTube influencers. The link between them represents whether advertiser entrusted the advertisement to influencers. During our analysis, we noticed that the variations in the minimum and maximum values or standard deviations of influencers' subscribers, video views, and the number of video features are quite substantial. To address this, we proceeded with additional feature extraction to normalize these features. The statistical description of our dataset is follows: 
 
 
+|          | Min | Max          | Mean(sd)                  | Median       |
+|----------|-----|--------------|---------------------------|--------------|
+| SS       | 5   | 1,390,000    | 180,334.31 (212,078.89)  | 105,000      |
+| VW       | 965 | 11,946,595,208 | 157,049,875.86 (529,003,445.42) | 30,533,582   |
+| VD       | 3   | 85,000       | 671.75 (2521.64)          | 287          |
+| AVS      | 0.61 | 29,109       | 1,044.76 (2225.97)        | 323.69       |
+| AVV      | 60.31 | 21,546,560   | 299,430 (712,458.68)      | 102,123.46   |
+| **AVSR** | 1   | 10           | 1.16 (0.66)               | 1            |
+| **AVVR** | 1   | 10           | 1.02 (0.25)               | 1            |
+| **SR**   | 1   | 10           | 1.90 (1.46)               | 1            |
+| **VDR**  | 1   | 10           | 1.04 (0.43)               | 1            |
+| VWR      | 1   | 10           | 1.03 (0.37)               | 1            |
+| NCS      | 0   | 0.93         | 0.27 (0.16)               | 0.23         |
+| PCS      | 0   | 0.97         | 0.71 (0.16)               | 0.76         |
+| **NCSR** | 1   | 5            | 1.98 (0.94)               | 2            |
+| PCSR     | 1   | 5            | 4.19 (0.92)               | 4            |
+
+*Note: Values are rounded for better readability.*
+
+
 
 ## Implementation detail
 TBD
